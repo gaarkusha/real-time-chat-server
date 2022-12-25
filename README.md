@@ -1,13 +1,5 @@
 # Real-time chat for communication on <a href="https://reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/></a>&nbsp;
 
-## Stack
-
-<p>
-    <a href="https://nodejs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/node/node-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/websocket/websocket-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;
-</p>
-
 ## Copy repo
 ### `git clone https://github.com/gaarkusha/real-time-chat-server`
 
